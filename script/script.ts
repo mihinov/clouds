@@ -28,4 +28,3 @@ rect2.color = '#000';
 
 const rect3 = {} as Rect;
 const rect4 = <Rect>{};
-console.log(1);
